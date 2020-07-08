@@ -10,7 +10,21 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "canvas": "^2.6.1",
+    "canvas-constructor": "^3.2.0",
+    "chokidar": "^3.4.0",
+    "confusables": "^1.0.0",
+    "d3-cloud": "^1.2.5",
     "discord.js": "^12.2.0",
-    "klasa": "^0.5.0"
+    "faceapp": "^0.4.7",
+    "fast-html-parser": "^1.0.1",
+    "figlet": "^1.4.0",
+    "he": "^1.2.0",
+    "heapdump": "^0.3.15",
+    "jimp": "^0.14.0",
+    "klasa": "^0.5.0",
+    "markovchain": "^1.0.2",
+    "snekfetch": "^4.0.4",
+    "twit": "^2.2.11"
   }
 }
